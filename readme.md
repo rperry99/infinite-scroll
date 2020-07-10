@@ -2,15 +2,15 @@
 
 This project was for me to learn how to create a website that will continously load photos as you scroll.
 
-### Thoughts
+## Thoughts
 
 This is a pretty useful skill to learn I think. A lot of websites today use infinite scrolling, or lazy loading, to constantly show new items / elements to a user. This eliminates the need for pagination and can make browsing easier.
 
-### Important Note
+## Important Note
 
 This project does not have a live version for you to look at. This project requires an API key that I do not want to share publicly. If you would like to try this app out for yourself, feel free to clone it or download it.
 
-#### Steps to get this project up and running locally for you:
+### Steps to get this project up and running locally for you:
 
 1. Go to [Unsplash's Developer Page](https://unsplash.com/documentation)
 2. Click on "Setting Up an Application"
