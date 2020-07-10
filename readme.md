@@ -1,4 +1,4 @@
-### Infinite Scrolling Website
+# Infinite Scrolling Website
 
 This project was for me to learn how to create a website that will continously load photos as you scroll.
 
