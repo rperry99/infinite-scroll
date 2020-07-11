@@ -2,6 +2,9 @@
 
 This project was for me to learn how to create a website that will continously load photos as you scroll.
 
+This project is from [Zero to Mastery: Jacascript Web Projects: 20 Projects to Build Your Portfolio](https://academy.zerotomastery.io/p/javascript-projects).
+This is project 2 / 20.
+
 ## Thoughts
 
 This is a pretty useful skill to learn I think. A lot of websites today use infinite scrolling, or lazy loading, to constantly show new items / elements to a user. This eliminates the need for pagination and can make browsing easier.
