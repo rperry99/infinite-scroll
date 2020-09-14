@@ -13,6 +13,8 @@ This is a pretty useful skill to learn I think. A lot of websites today use infi
 
 You can view a live version [here](https://russ-infinite-scroll.netlify.app/). If you would like to run this locally, you will need an API key, which you can get for free from the steps below.
 
+You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
+
 ## Steps to get this project up and running locally for you:
 
 1. Go to [Unsplash's Developer Page](https://unsplash.com/documentation)
